@@ -1,0 +1,14 @@
+/home/lucascorreia/Projetos/CSharp-Learn/1. Projetos Inciantes/Calculadora/bin/Debug/net9.0/Calculadora
+/home/lucascorreia/Projetos/CSharp-Learn/1. Projetos Inciantes/Calculadora/bin/Debug/net9.0/Calculadora.deps.json
+/home/lucascorreia/Projetos/CSharp-Learn/1. Projetos Inciantes/Calculadora/bin/Debug/net9.0/Calculadora.runtimeconfig.json
+/home/lucascorreia/Projetos/CSharp-Learn/1. Projetos Inciantes/Calculadora/bin/Debug/net9.0/Calculadora.dll
+/home/lucascorreia/Projetos/CSharp-Learn/1. Projetos Inciantes/Calculadora/bin/Debug/net9.0/Calculadora.pdb
+/home/lucascorreia/Projetos/CSharp-Learn/1. Projetos Inciantes/Calculadora/obj/Debug/net9.0/Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucascorreia/Projetos/CSharp-Learn/1. Projetos Inciantes/Calculadora/obj/Debug/net9.0/Calculadora.AssemblyInfoInputs.cache
+/home/lucascorreia/Projetos/CSharp-Learn/1. Projetos Inciantes/Calculadora/obj/Debug/net9.0/Calculadora.AssemblyInfo.cs
+/home/lucascorreia/Projetos/CSharp-Learn/1. Projetos Inciantes/Calculadora/obj/Debug/net9.0/Calculadora.csproj.CoreCompileInputs.cache
+/home/lucascorreia/Projetos/CSharp-Learn/1. Projetos Inciantes/Calculadora/obj/Debug/net9.0/Calculadora.dll
+/home/lucascorreia/Projetos/CSharp-Learn/1. Projetos Inciantes/Calculadora/obj/Debug/net9.0/refint/Calculadora.dll
+/home/lucascorreia/Projetos/CSharp-Learn/1. Projetos Inciantes/Calculadora/obj/Debug/net9.0/Calculadora.pdb
+/home/lucascorreia/Projetos/CSharp-Learn/1. Projetos Inciantes/Calculadora/obj/Debug/net9.0/Calculadora.genruntimeconfig.cache
+/home/lucascorreia/Projetos/CSharp-Learn/1. Projetos Inciantes/Calculadora/obj/Debug/net9.0/ref/Calculadora.dll
