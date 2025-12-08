@@ -1,0 +1,15 @@
+/home/lucascorreia/Projetos/CSharp-Learn/1. Projetos Inciantes/Lista_Convidados/bin/Debug/net9.0/Lista_Convidados
+/home/lucascorreia/Projetos/CSharp-Learn/1. Projetos Inciantes/Lista_Convidados/bin/Debug/net9.0/Lista_Convidados.deps.json
+/home/lucascorreia/Projetos/CSharp-Learn/1. Projetos Inciantes/Lista_Convidados/bin/Debug/net9.0/Lista_Convidados.runtimeconfig.json
+/home/lucascorreia/Projetos/CSharp-Learn/1. Projetos Inciantes/Lista_Convidados/bin/Debug/net9.0/Lista_Convidados.dll
+/home/lucascorreia/Projetos/CSharp-Learn/1. Projetos Inciantes/Lista_Convidados/bin/Debug/net9.0/Lista_Convidados.pdb
+/home/lucascorreia/Projetos/CSharp-Learn/1. Projetos Inciantes/Lista_Convidados/obj/Debug/net9.0/Lista_Convidados.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucascorreia/Projetos/CSharp-Learn/1. Projetos Inciantes/Lista_Convidados/obj/Debug/net9.0/Lista_Convidados.AssemblyInfoInputs.cache
+/home/lucascorreia/Projetos/CSharp-Learn/1. Projetos Inciantes/Lista_Convidados/obj/Debug/net9.0/Lista_Convidados.AssemblyInfo.cs
+/home/lucascorreia/Projetos/CSharp-Learn/1. Projetos Inciantes/Lista_Convidados/obj/Debug/net9.0/Lista_Convidados.csproj.CoreCompileInputs.cache
+/home/lucascorreia/Projetos/CSharp-Learn/1. Projetos Inciantes/Lista_Convidados/obj/Debug/net9.0/Lista_Convidados.sourcelink.json
+/home/lucascorreia/Projetos/CSharp-Learn/1. Projetos Inciantes/Lista_Convidados/obj/Debug/net9.0/Lista_Convidados.dll
+/home/lucascorreia/Projetos/CSharp-Learn/1. Projetos Inciantes/Lista_Convidados/obj/Debug/net9.0/refint/Lista_Convidados.dll
+/home/lucascorreia/Projetos/CSharp-Learn/1. Projetos Inciantes/Lista_Convidados/obj/Debug/net9.0/Lista_Convidados.pdb
+/home/lucascorreia/Projetos/CSharp-Learn/1. Projetos Inciantes/Lista_Convidados/obj/Debug/net9.0/Lista_Convidados.genruntimeconfig.cache
+/home/lucascorreia/Projetos/CSharp-Learn/1. Projetos Inciantes/Lista_Convidados/obj/Debug/net9.0/ref/Lista_Convidados.dll
