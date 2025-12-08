@@ -1,0 +1,15 @@
+/home/lucascorreia/Projetos/CSharp-Learn/Leetcode_Problems/Set-Mismatch/obj/Debug/net9.0/Set-Mismatch.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucascorreia/Projetos/CSharp-Learn/Leetcode_Problems/Set-Mismatch/obj/Debug/net9.0/Set-Mismatch.AssemblyInfoInputs.cache
+/home/lucascorreia/Projetos/CSharp-Learn/Leetcode_Problems/Set-Mismatch/obj/Debug/net9.0/Set-Mismatch.AssemblyInfo.cs
+/home/lucascorreia/Projetos/CSharp-Learn/Leetcode_Problems/Set-Mismatch/obj/Debug/net9.0/Set-Mismatch.csproj.CoreCompileInputs.cache
+/home/lucascorreia/Projetos/CSharp-Learn/Leetcode_Problems/Set-Mismatch/obj/Debug/net9.0/Set-Mismatch.sourcelink.json
+/home/lucascorreia/Projetos/CSharp-Learn/Leetcode_Problems/Set-Mismatch/bin/Debug/net9.0/Set-Mismatch
+/home/lucascorreia/Projetos/CSharp-Learn/Leetcode_Problems/Set-Mismatch/bin/Debug/net9.0/Set-Mismatch.deps.json
+/home/lucascorreia/Projetos/CSharp-Learn/Leetcode_Problems/Set-Mismatch/bin/Debug/net9.0/Set-Mismatch.runtimeconfig.json
+/home/lucascorreia/Projetos/CSharp-Learn/Leetcode_Problems/Set-Mismatch/bin/Debug/net9.0/Set-Mismatch.dll
+/home/lucascorreia/Projetos/CSharp-Learn/Leetcode_Problems/Set-Mismatch/bin/Debug/net9.0/Set-Mismatch.pdb
+/home/lucascorreia/Projetos/CSharp-Learn/Leetcode_Problems/Set-Mismatch/obj/Debug/net9.0/Set-Mismatch.dll
+/home/lucascorreia/Projetos/CSharp-Learn/Leetcode_Problems/Set-Mismatch/obj/Debug/net9.0/refint/Set-Mismatch.dll
+/home/lucascorreia/Projetos/CSharp-Learn/Leetcode_Problems/Set-Mismatch/obj/Debug/net9.0/Set-Mismatch.pdb
+/home/lucascorreia/Projetos/CSharp-Learn/Leetcode_Problems/Set-Mismatch/obj/Debug/net9.0/Set-Mismatch.genruntimeconfig.cache
+/home/lucascorreia/Projetos/CSharp-Learn/Leetcode_Problems/Set-Mismatch/obj/Debug/net9.0/ref/Set-Mismatch.dll
