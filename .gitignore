@@ -1,0 +1,7 @@
+# Ignorar pastas de build do C#
+bin/
+obj/
+
+# Ignorar arquivos de usuário do Visual Studio (opcional, mas recomendado)
+.vs/
+*.user
