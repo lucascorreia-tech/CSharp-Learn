@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lista_Convidados")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4883fc71df618e3c38b2b2ed237af041790eddf9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a03b7d9e0d0cbcb27afb5811ffc59ac035ff0de")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lista_Convidados")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lista_Convidados")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

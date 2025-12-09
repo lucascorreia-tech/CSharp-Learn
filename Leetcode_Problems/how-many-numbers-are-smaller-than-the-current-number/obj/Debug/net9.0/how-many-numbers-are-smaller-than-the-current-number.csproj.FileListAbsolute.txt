@@ -1,0 +1,15 @@
+/home/lucascorreia/Projetos/CSharp-Learn/Leetcode_Problems/how-many-numbers-are-smaller-than-the-current-number/obj/Debug/net9.0/how-many-numbers-are-smaller-than-the-current-number.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucascorreia/Projetos/CSharp-Learn/Leetcode_Problems/how-many-numbers-are-smaller-than-the-current-number/obj/Debug/net9.0/how-many-numbers-are-smaller-than-the-current-number.AssemblyInfoInputs.cache
+/home/lucascorreia/Projetos/CSharp-Learn/Leetcode_Problems/how-many-numbers-are-smaller-than-the-current-number/obj/Debug/net9.0/how-many-numbers-are-smaller-than-the-current-number.AssemblyInfo.cs
+/home/lucascorreia/Projetos/CSharp-Learn/Leetcode_Problems/how-many-numbers-are-smaller-than-the-current-number/obj/Debug/net9.0/how-many-numbers-are-smaller-than-the-current-number.csproj.CoreCompileInputs.cache
+/home/lucascorreia/Projetos/CSharp-Learn/Leetcode_Problems/how-many-numbers-are-smaller-than-the-current-number/obj/Debug/net9.0/how-many-numbers-are-smaller-than-the-current-number.sourcelink.json
+/home/lucascorreia/Projetos/CSharp-Learn/Leetcode_Problems/how-many-numbers-are-smaller-than-the-current-number/bin/Debug/net9.0/how-many-numbers-are-smaller-than-the-current-number
+/home/lucascorreia/Projetos/CSharp-Learn/Leetcode_Problems/how-many-numbers-are-smaller-than-the-current-number/bin/Debug/net9.0/how-many-numbers-are-smaller-than-the-current-number.deps.json
+/home/lucascorreia/Projetos/CSharp-Learn/Leetcode_Problems/how-many-numbers-are-smaller-than-the-current-number/bin/Debug/net9.0/how-many-numbers-are-smaller-than-the-current-number.runtimeconfig.json
+/home/lucascorreia/Projetos/CSharp-Learn/Leetcode_Problems/how-many-numbers-are-smaller-than-the-current-number/bin/Debug/net9.0/how-many-numbers-are-smaller-than-the-current-number.dll
+/home/lucascorreia/Projetos/CSharp-Learn/Leetcode_Problems/how-many-numbers-are-smaller-than-the-current-number/bin/Debug/net9.0/how-many-numbers-are-smaller-than-the-current-number.pdb
+/home/lucascorreia/Projetos/CSharp-Learn/Leetcode_Problems/how-many-numbers-are-smaller-than-the-current-number/obj/Debug/net9.0/how-many-numbers-are-smaller-than-the-current-number.dll
+/home/lucascorreia/Projetos/CSharp-Learn/Leetcode_Problems/how-many-numbers-are-smaller-than-the-current-number/obj/Debug/net9.0/refint/how-many-numbers-are-smaller-than-the-current-number.dll
+/home/lucascorreia/Projetos/CSharp-Learn/Leetcode_Problems/how-many-numbers-are-smaller-than-the-current-number/obj/Debug/net9.0/how-many-numbers-are-smaller-than-the-current-number.pdb
+/home/lucascorreia/Projetos/CSharp-Learn/Leetcode_Problems/how-many-numbers-are-smaller-than-the-current-number/obj/Debug/net9.0/how-many-numbers-are-smaller-than-the-current-number.genruntimeconfig.cache
+/home/lucascorreia/Projetos/CSharp-Learn/Leetcode_Problems/how-many-numbers-are-smaller-than-the-current-number/obj/Debug/net9.0/ref/how-many-numbers-are-smaller-than-the-current-number.dll
