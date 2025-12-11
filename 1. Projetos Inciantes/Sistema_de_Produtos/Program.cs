@@ -56,5 +56,26 @@ public class Program
     {
       Console.WriteLine($" Nome = {produto.Nome} | Preço = {produto.Preco}");
     }
+
+    Console.WriteLine("------------------------------------");
+
+    // Nível 2
+    var média_produtos = produtos.Average(p => p.Preco);
+    Console.WriteLine($" A média dos produtos é {média_produtos:F2}");
+    Console.WriteLine("------------------------------------");
+    var produtos_eletronicos = produtos.Count(p => p.Categoria == "Eletrônicos");
+    Console.WriteLine($" O total de produtos eletronicos é {produtos_eletronicos}");
+    Console.WriteLine("------------------------------------");
+    var existe_menor10 = produtos.Any(p => p.Preco < 10);
+    Console.WriteLine(existe_menor10);
+    Console.WriteLine("------------------------------------");
+    var primeiroProdutoC = produtos.FirstOrDefault(p => p.Nome.Contains('C'));
+    Console.WriteLine(primeiroProdutoC?.Nome);
+    Console.WriteLine("------------------------------------");
+    var paginacao = produtos.Skip(3).Take(3).ToList();
+    foreach (var produto in paginacao)
+    {
+      Console.WriteLine(produto.Nome);
+    }
   }
 }
