@@ -77,5 +77,21 @@ public class Program
     {
       Console.WriteLine(produto.Nome);
     }
+    Console.WriteLine("------------------------------------");
+    // Nível 3
+    var grupoCategoria = produtos.GroupBy(p => p.Categoria);
+    foreach (var categoria in grupoCategoria)
+    {
+      Console.WriteLine($"A categoria: {categoria.Key} tem {categoria.Count()} itens");
+    }
+    Console.WriteLine("------------------------------------");
+    var orderRoupas = produtos.OrderBy(p => p.Nome).Where(p => p.Categoria == "Roupas" && p.Preco > 100);
+    foreach (var nome in orderRoupas)
+    {
+      Console.WriteLine(nome.Nome);
+    }
+    Console.WriteLine("------------------------------------");
+    var maisCaro = produtos.MaxBy(p => p.Preco);
+    Console.WriteLine($"O produto mais caro é: {maisCaro.Nome} - R$ {maisCaro.Preco}");
   }
 }
